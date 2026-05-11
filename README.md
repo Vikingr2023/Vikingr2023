@@ -29,8 +29,8 @@
 7×24小时无人值守：博客自动发布、社群自动管理、服务器自动运维
 用AI管AI，24小时在线
 
-**✍️ 个人博客**
-[blog.hewenqiang.com](https://blog.hewenqiang.com) — 每日AI原创内容，自动更新
+**📊 算力服务器营销站**
+[ai.hkras.com](https://ai.hkras.com) — 乐数雅路算力服务器产品展示与营销
 
 ---
 
@@ -93,6 +93,7 @@
 - **跨境网络：** [vnetm.com](https://vnetm.com)
 - **API服务：** [api.ccwgo.com](https://api.ccwgo.com)
 - **算力出海：** [token.hkras.com](https://token.hkras.com)
+- **算力服务器：** [ai.hkras.com](https://ai.hkras.com)
 - **个人博客：** [blog.hewenqiang.com](https://blog.hewenqiang.com)
 - **诊断工具：** [hewenqiang.com/ai-needs](https://hewenqiang.com/ai-needs)
 
