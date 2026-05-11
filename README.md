@@ -1,15 +1,33 @@
-# 👋 你好，我是算力老何（何文强）
+# 👋 你好，我是算力老何
 
-> **AI布道师** · 帮你用AI赚到钱
+> **AI布道师** · 24年互联网老兵 · AI时代生存法则传播者
 
 ---
 
 ## 🎯 我是谁
 
-24年创业老兵，工科出身，1999年受卡耐基启发转型培训咨询。
-从0到1运营多家公司，现专注AI布道师事业，帮小微企业和AI小白消除恐惧、建立认知、落地变现。
+从互联网早期一路走到今天，经历过完整的互联网发展周期。
 
-**核心理念：** AI是工具，用好它能帮你赚钱，但前提是有人带你少走弯路。
+现在我在做一件事：**帮更多人适应AI时代的生存法则。**
+
+不只是教你用AI赚钱，而是让你在AI时代活下来、活得好。
+
+---
+
+## 🏗️ 我构建的AI基础设施
+
+**⚡ API中转站**
+[api.ccwgo.com](https://api.ccwgo.com) — 自研AI算力分销平台，对接多渠道API，稳定服务50+用户
+
+**🌏 算力出海平台**
+[token.hkras.com](https://token.hkras.com) — 国产算力出海服务，让全球用户用上中国优质AI算力
+
+**🤖 AI全自动运营系统**
+7×24小时无人值守：博客自动发布、社群自动管理、服务器自动运维
+用AI管AI，24小时在线
+
+**✍️ 博客矩阵**
+[ai.hkras.com](https://ai.hkras.com) — 每日3篇AI原创内容，自动更新
 
 ---
 
@@ -17,42 +35,42 @@
 
 | 方向 | 内容 |
 |------|------|
-| **AI培训** | 小微企业AI转型培训，面向小白，零术语 |
-| **一人公司** | 帮你创办一人公司，3000元/人，含工具+方法 |
-| **vnetm.com** | 越南跨境服务平台，算力+工具+流量 |
-| **AI猎头** | AI HR经理创业项目，帮企业招人、帮人就业 |
+| **企业AI内训** | 帮企业3天搭建AI工作流，看得见的降本增效 |
+| **一人公司孵化** | 帮你创办AI驱动的一人公司，3000元/人 |
+| **算力与API服务** | 自研中转站+出海平台，性价比最高的AI算力解决方案 |
+| **AI猎头** | 帮企业找对的AI人才，帮人才找对的位置 |
 
 ---
 
-## 📦 我的GitHub项目
+## 📦 我的开源项目
 
 | 仓库 | 说明 |
 |------|------|
-| [ai-prompts](https://github.com/Vikingr2023/ai-prompts) | 🔥 AI布道师提示词库 - 沉淀实战模板 |
-| [ai-case-studies](https://github.com/Vikingr2023/ai-case-studies) | 📊 AI实战案例库 - 记录每一个落地故事 |
-| [chatgpt](https://github.com/Vikingr2023/chatgpt) | ChatGPT工具集 |
-| [sbti-test](https://github.com/Vikingr2023/sbti-test) | 抽象人格测试 SBTI |
-| [gaokao-countdown](https://github.com/Vikingr2023/gaokao-countdown) | 高考倒计时 |
-
----
-
-## 📱 找到我
-
-- **视频号/公众号：** 算力老何
-- **越南跨境平台：** [vnetm.com](https://vnetm.com)
-- **AI需求诊断：** [hewenqiang.com/ai-needs](https://hewenqiang.com/ai-needs)
-- **个人网站：** [hewenqiang.com](https://hewenqiang.com)
+| [ai-prompts](https://github.com/Vikingr2023/ai-prompts) | 🔥 AI布道师提示词库 |
+| [ai-case-studies](https://github.com/Vikingr2023/ai-case-studies) | 📊 AI实战案例库 |
+| [blog-writing-style](https://github.com/Vikingr2023/blog-writing-style) | 📝 博客写作风格规范 |
+| [openclaw-skill-money-idea-generator](https://github.com/Vikingr2023/openclaw-skill-money-idea-generator) | 💡 AI变现创意生成器 |
 
 ---
 
 ## 🏆 成果数据
 
-- 帮宇航人长春运营中心**3天上线**营销网站（传统方式2周+）
-- 培训学员**100+**，覆盖传统企业主、AI小白、自由职业者
-- AI需求诊断系统服务企业**50+**
+- 自研API中转站稳定运营，50+付费用户
+- 算力出海平台服务海外用户
+- 博客日更自动化，0人工干预
+- 帮宇航人长春运营中心 **3天上线** 营销网站
+- AI培训学员 **100+**，覆盖传统企业主到AI小白
 
 ---
 
-*"用AI布道，让更多人用AI赚到钱"* 🚀
+## 📱 找到我
+
+- **公众号：** 算力老何
+- **算力平台：** [vnetm.com](https://vnetm.com)
+- **API服务：** [api.ccwgo.com](https://api.ccwgo.com)
+- **算力出海：** [token.hkras.com](https://token.hkras.com)
+- **诊断工具：** [hewenqiang.com/ai-needs](https://hewenqiang.com/ai-needs)
 
 ---
+
+*「用AI布道，让更多人在AI时代活下来、活得好」* 🚀
