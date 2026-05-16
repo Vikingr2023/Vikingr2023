@@ -14,6 +14,14 @@
 
 ---
 
+## 🤖 AI成长导师
+
+**联系我的AI助理 → [ai-tutor.hewenqiang.workers.dev](https://ai-tutor.hewenqiang.workers.dev)**
+
+24小时在线，随时解答你的AI问题，记录你的成长轨迹。
+
+---
+
 ## 🏗️ 我构建的AI基础设施
 
 **⚡ API中转站**
@@ -89,6 +97,7 @@
 
 ## 📱 找到我
 
+- **AI成长导师：** [ai-tutor.hewenqiang.workers.dev](https://ai-tutor.hewenqiang.workers.dev)
 - **公众号：** 算力老何
 - **跨境网络：** [vnetm.com](https://vnetm.com)
 - **API服务：** [api.ccwgo.com](https://api.ccwgo.com)
