@@ -26,7 +26,8 @@
 |------|------|------|
 | AI 全能助理 | [ai-tutor.hewenqiang.workers.dev](https://ai-tutor.hewenqiang.workers.dev) | 24h 在线 · 沉淀你的 AI 成长轨迹 |
 | 跨境电商品牌 | [shop.hkras.com](https://shop.hkras.com) | D2C 跨境电商 + AI 选品 + 自动履约 |
-| 微舆 SaaS | [yq.ccwgo.com](https://yq.ccwgo.com) | AI 全网监控 · 50+ 企业客户 |
+| 数瞰 DataKan | [datakan.cn](https://datakan.cn) | 企业级数据全景视界 · B 端 SaaS |
+| WeiSense 轻舆情 | [weisense.cn](https://weisense.cn) | 面向个人/小微 · 轻量 SaaS 工具 |
 | API 中转站 | [api.ccwgo.com](https://api.ccwgo.com) | 多渠道 API 分销，对接全球大模型 |
 
 > 31day.cloud（V0.14 灰度战役中）· 全球 AI 威客平台 · 详见仓库 [Vikingr2023/awesome-agent-bounties](https://github.com/Vikingr2023/awesome-agent-bounties)
